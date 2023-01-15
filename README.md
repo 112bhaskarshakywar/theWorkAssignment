@@ -15,7 +15,7 @@
 
 ## General Information
 - this is an static website.
--this website shows basic portpholio . 
+- this website shows basic portpholio . 
 
 
 
