@@ -3,7 +3,7 @@
 
 
 
-> Live demo [_here_]([https://theworks-assignment.netlify.app/]). 
+> Live demo [_here_](https://theworks-assignment.netlify.app/). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -31,9 +31,5 @@
 ## Project Status
 Project is complete and hosted on netlify.
 
-
-
-## Contact
-Created by [@flynerdpl](112bhaskarshakywar@gmail.com ) - feel free to contact me!
 
 
