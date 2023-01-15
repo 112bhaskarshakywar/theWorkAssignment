@@ -3,7 +3,7 @@
 
 
 
-> Live demo [_here_]([https://ns-project.vercel.app/](https://theworks-assignment.netlify.app/)). 
+> Live demo [_here_]([https://theworks-assignment.netlify.app/]). 
 
 ## Table of Contents
 * [General Info](#general-information)
