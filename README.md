@@ -21,9 +21,9 @@
 
 
 ## Technologies Used
--Html
+- Html
 - css
--Bootstrap
+- Bootstrap
  
 
 
